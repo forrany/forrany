@@ -58,6 +58,9 @@
 [<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=forrany&show_icons=true&count_private=true&hide_border=true&theme=gotham" align="center" /></div> ](https://github-readme-stats.vercel.app/api?username=forrany&show_icons=true&count_private=true&hide_border=true&theme=gotham)
 <br/>  
 
+## Last Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **forrany/forrany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
