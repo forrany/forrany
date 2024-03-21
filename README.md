@@ -2,15 +2,18 @@
 ### <div align="center">I'm Vincent Ko, a front-end developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently mainly engaged in front-end development work for big data platforms.  
+- 🔭 I’m currently primarily engaged in front-end development work for big data platforms.
   
+- 🌱 Continuously accumulating technology, capturing the beauty of life at [VK‘s Blog](https://vincentko.top)
 
-- 🌱 My blog , [VincentKo's Life & Code Musings ](https://vincentko.top)  
+- 📍 I am located in Shenzhen, Guangdong.
+
+- 📧 Feel free to contact [me](mailto:im.vincentko@gmail.com) 
   
 
 <br/>  
 
-
+<!--
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
@@ -45,7 +48,8 @@
 </td></tr></table>  
 <br/>  
 
-  
+-->
+
 
 <br/>  
 
