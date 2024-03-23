@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "http://175.178.187.22:8090/feed.xml"
+          feed_list: "https://@username.hashnode.dev/rss.xml"
