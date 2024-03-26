@@ -60,9 +60,11 @@
 
 ## Last Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Troubleshooting Guide for SSH Password-less Login](https://vincentko.hashnode.dev/troubleshooting-guide-for-ssh-password-less-login)
-- [Frontend Performance Tuning: Optimizing JavaScript Arrays and Objects for Better Code Efficiency](https://vincentko.hashnode.dev/frontend-performance-tuning-optimizing-javascript-arrays-and-objects-for-better-code-efficiency)
-- [D3.js 动画](https://vincentko.hashnode.dev/d3js)
+- [基于 telegraph 搭建免费图床](https://xirizhi.cn/?p=1710567769974)
+- [博客访问优化之 Cludflare Sass](https://xirizhi.cn/?p=1709652393624)
+- [架构师系统设计原则&lpar;搞笑版&rpar;](https://xirizhi.cn/?p=1709125723820)
+- [通过 JAVA 实现 Windows 屏幕水印](https://xirizhi.cn/?p=1708592167810)
+- [2023年终总结，总结过去，遥望未来](https://xirizhi.cn/?p=1706799119778)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
