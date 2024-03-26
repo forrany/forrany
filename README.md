@@ -60,11 +60,11 @@
 
 ## Last Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [基于 telegraph 搭建免费图床](https://xirizhi.cn/?p=1710567769974)
-- [博客访问优化之 Cludflare Sass](https://xirizhi.cn/?p=1709652393624)
-- [架构师系统设计原则&lpar;搞笑版&rpar;](https://xirizhi.cn/?p=1709125723820)
-- [通过 JAVA 实现 Windows 屏幕水印](https://xirizhi.cn/?p=1708592167810)
-- [2023年终总结，总结过去，遥望未来](https://xirizhi.cn/?p=1706799119778)
+- [SSH 免密登录故障排查指南](http://localhost:8090/archives/ssh-login-issue)
+- [patch-package:轻松修改第三方 npm 包的终极利器](http://localhost:8090/archives/patch-package-use)
+- [【保姆级】保留数据 Switch 系统升级教程](http://localhost:8090/archives/switch-update)
+- [性能提升技巧：使用Set和数组方法优化JavaScript代码](http://localhost:8090/archives/write-more-efficient-javascript)
+- [解决 &quot;nvm command not found“](http://localhost:8090/archives/solve-nvm-command-not-found)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
