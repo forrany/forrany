@@ -60,11 +60,11 @@
 
 ## Last Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [SSH 免密登录故障排查指南](http://localhost:8090/archives/ssh-login-issue)
-- [patch-package:轻松修改第三方 npm 包的终极利器](http://localhost:8090/archives/patch-package-use)
-- [【保姆级】保留数据 Switch 系统升级教程](http://localhost:8090/archives/switch-update)
-- [性能提升技巧：使用Set和数组方法优化JavaScript代码](http://localhost:8090/archives/write-more-efficient-javascript)
-- [解决 &quot;nvm command not found“](http://localhost:8090/archives/solve-nvm-command-not-found)
+- [SSH 免密登录故障排查指南](https://vincentko.top/archives/ssh-login-issue)
+- [patch-package:轻松修改第三方 npm 包的终极利器](https://vincentko.top/archives/patch-package-use)
+- [【保姆级】保留数据 Switch 系统升级教程](https://vincentko.top/archives/switch-update)
+- [性能提升技巧：使用Set和数组方法优化JavaScript代码](https://vincentko.top/archives/write-more-efficient-javascript)
+- [解决 &quot;nvm command not found“](https://vincentko.top/archives/solve-nvm-command-not-found)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
