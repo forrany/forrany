@@ -64,7 +64,7 @@
 - [patch-package:轻松修改第三方 npm 包的终极利器](https://vincentko.top/archives/patch-package-use)
 - [【保姆级】保留数据 Switch 系统升级教程](https://vincentko.top/archives/switch-update)
 - [性能提升技巧：使用Set和数组方法优化JavaScript代码](https://vincentko.top/archives/write-more-efficient-javascript)
-- [解决 &quot;nvm command not found“](https://vincentko.top/archives/solve-nvm-command-not-found)
+- [享受免费AI助手的丝滑体验：使用GPT优化前端开发工作](https://vincentko.top/archives/FreeGPT)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
