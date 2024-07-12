@@ -16,7 +16,7 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://vincentko.top/rss.xml"
+          feed_list: "http://feed.vincentko.top/"
           user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
           retry_count: 3
           retry_wait_time: 5
