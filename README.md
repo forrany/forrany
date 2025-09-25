@@ -67,11 +67,11 @@ A Tampermonkey script for automating clicks on Taobao/Tmall at specified times.
 
 ## Last Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Coding 的思考](https://vincentko.top/archives/vibe-coding)
 - [基于Node.js 与 PM2 实现 Git 操作流程自动化](https://vincentko.top/archives/process_git_with_node.js)
 - [我是如何解决腾讯云轻量服务器内存不足问题的：Linux交换空间配置实战](https://vincentko.top/archives/Linux-Swap-Sapce)
 - [SSH 免密登录故障排查指南](https://vincentko.top/archives/ssh-login-issue)
 - [patch-package:轻松修改第三方 npm 包的终极利器](https://vincentko.top/archives/patch-package-use)
-- [【保姆级】保留数据 Switch 系统升级教程](https://vincentko.top/archives/switch-update)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
